@@ -1,4 +1,4 @@
-Copyright (c) 2017 Brian Egan
+Copyright (c) 2023 Francis Selorm Kponyo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
